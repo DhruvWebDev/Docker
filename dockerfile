@@ -17,5 +17,4 @@ COPY . .
 RUN npm run build
 
 # Expose the port Vite will use
-EXPOSE 9999
-
+EXPOSE 5173
